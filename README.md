@@ -15,3 +15,7 @@ This is an chrome extension. Follow the instructions below to get started
 #### 2. Usage
 
 - Once installed, the extension should start working automatically
+
+#### License
+
+This project is licensed under the [MIT License](./LICENSE.md)\.
