@@ -4,12 +4,12 @@
 
 ## Intro
 
-This is an chrome extension. Follow the instructions below to get started
+This is a Chrome extension. Follow the instructions below to get started
 
 #### 1. Installation
 
-- Download and extract this repository. <br/>
-- Open chrome and go to "Manage Extension" or you can copy "chrome://extensions/" and paste to the URL.
+- Clone and extract this repository. <br/>
+- Open Chrome and go to "Manage Extension" or you can copy "chrome://extensions/" and paste to the URL.
 - Drag and drop the folder you extracted above
 
 #### 2. Usage
